@@ -4,11 +4,16 @@
     margin-top: 100px;
    
 }
-#axios{
+#btn{
     display: block;
     margin: 0 auto;
 }
 
 #question{
+    text-align: center;
+}
+
+.answer{
+    list-style: none;
     text-align: center;
 }
